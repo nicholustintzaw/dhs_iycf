@@ -1,6 +1,8 @@
 //# dhs_iycf
 //calculate infant and young child feeding indicators using DHS dataset
 
+// Note: chnage local computer directory based on the workflow setting. 
+
 //written by Nicholus Tint Zaw
 
 *----------------------------------------------------------------------------------
